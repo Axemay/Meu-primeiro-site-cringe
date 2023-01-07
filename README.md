@@ -1,6 +1,6 @@
-<h1>Missão prática do 1º nível de conhecimento do Mundo 2 - Curso Full Stack da Universidade Estácio de Sá.</h1>
+<h1>Projeto: Meu primeiro site "cringe"</h1>
 
-<h2>Projeto: Meu primeiro site "cringe"</h2>
+<h2>Missão prática do 1º nível de conhecimento do Mundo 2 - Curso Full Stack da Universidade Estácio de Sá.</h2>
 <p><strong>Descrição</strong>: Implementação de um site voltado para o fornecimento de receitas culinárias,
 com a utilização apenas de <strong>HTML</strong> e <strong>CSS</strong>.</p>
 
